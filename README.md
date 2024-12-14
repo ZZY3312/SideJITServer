@@ -5,7 +5,7 @@ This project allows you to start a server that wirelessly or via USB gives you J
 
 ### Option 1: Python install
 ```sh
-python3 -m venv venv # Run inside SideJITServer directory!
+python -m venv venv # Run inside SideJITServer directory!
 
 # Activate Python venv
 
@@ -88,4 +88,4 @@ It going to ask you to allow to access your local ip address just click allow!
 Now select the application that you want to give JIT access to and you're done! (it might ask for notification permissions). 
 It is recommended that you allow so you see if the JIT fail or succeed.
 
-Happy JITing! :3
+Happy JITing!
